@@ -10,6 +10,8 @@ public class Arco : MonoBehaviour
     public float maxDuracionClic = 1.0f; // Duración máxima de clic para usar energía
     public float energiaUsadaPorSegundo = 20f; // Cantidad de energía usada por segundo al cargar el arco
     public GameObject flechaPrefab; // Prefab de la flecha
+    public Transform puntoDisparo; // Punto desde donde se disparan las flechas
+    public float fuerzaDisparo = 10f; // Fuerza con la que se dispara la flecha
 
     private float currentEnergia; // Energía actual del arco
     private bool isCharging; // Indicador de si se está cargando el arco
@@ -19,6 +21,7 @@ public class Arco : MonoBehaviour
     {
         currentEnergia = maxEnergia;
         sliderEnergia.maxValue = maxEnergia; // Configura el valor máximo del slider
+        sliderEnergia.value = currentEnergia; // Inicializa el valor del slider
     }
 
     void Update()
@@ -53,16 +56,30 @@ public class Arco : MonoBehaviour
             float chargeDuration = Time.time - startChargeTime;
             float energiaUsada = Mathf.Lerp(0, energiaUsadaPorSegundo, Mathf.Clamp01(chargeDuration / maxDuracionClic));
             currentEnergia -= energiaUsada;
-            InstantiateFlecha();
+            InstantiateFlecha(chargeDuration);
         }
 
         isCharging = false;
     }
 
-    void InstantiateFlecha()
+    void InstantiateFlecha(float chargeDuration)
     {
         // Instantiate y configura la flecha
-        GameObject flecha = Instantiate(flechaPrefab, transform.position, transform.rotation);
-        // Aquí puedes añadir cualquier configuración adicional de la flecha, como la velocidad o la dirección de lanzamiento
+        GameObject flecha = Instantiate(flechaPrefab, puntoDisparo.position, puntoDisparo.rotation);
+        Rigidbody rb = flecha.GetComponent<Rigidbody>();
+
+        if (rb != null)
+        {
+            // Calcula la fuerza de disparo basada en la duración de la carga
+            float fuerza = Mathf.Lerp(0, fuerzaDisparo, Mathf.Clamp01(chargeDuration / maxDuracionClic));
+            rb.AddForce(puntoDisparo.forward * fuerza, ForceMode.Impulse);
+
+            // Debugging: Verificar que el Rigidbody tiene gravedad habilitada
+            Debug.Log("Gravedad habilitada en la flecha: " + rb.useGravity);
+        }
+        else
+        {
+            Debug.LogError("El prefab de la flecha no tiene un componente Rigidbody.");
+        }
     }
 }
