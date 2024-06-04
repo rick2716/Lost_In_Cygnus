@@ -11,9 +11,10 @@ public class Bomba : MonoBehaviour
     {
         // Obtener el punto de impacto de la colisión
         Vector3 puntoDeImpacto = collision.contacts[0].point;
+        // Destruir la bomba después de la explosión
+        Destroy(gameObject);
 
         // Obtener la posición del suelo en el punto de impacto
-        Destroy(gameObject);
         RaycastHit hit;
         if (Physics.Raycast(puntoDeImpacto, Vector3.down, out hit, Mathf.Infinity, capasAfectadas))
         {
@@ -26,6 +27,7 @@ public class Bomba : MonoBehaviour
             Explosión(puntoDeImpacto);
         }
 
+
     }
 
     void Explosión(Vector3 posición)
@@ -34,16 +36,18 @@ public class Bomba : MonoBehaviour
         GameObject explosionEffect = Instantiate(explosionEffectPrefab, posición, Quaternion.identity);
         ParticleSystem ps = explosionEffect.GetComponent<ParticleSystem>();
 
+        // Verificar y añadir el script AutoDestroyParticleSystem si no está presente
+        if (explosionEffect.GetComponent<AutoDestroyParticleSystem>() == null)
+        {
+            explosionEffect.AddComponent<AutoDestroyParticleSystem>();
+        }
+
         // Ajustar el radio de la base del cono y la altura
         var shape = ps.shape;
         shape.radius = radioDeDaño; // Ajustar el radio de la base del cono
         shape.angle = 25f; // Ajustar el ángulo del cono si es necesario
 
-
         ps.Play();
-
-        // Destruir el efecto de partículas después de su duración
-        Destroy(explosionEffect, ps.main.duration);
 
         // Encontrar todos los colliders en el radio de daño
         Collider[] colliders = Physics.OverlapSphere(posición, radioDeDaño, capasAfectadas);

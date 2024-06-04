@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections; // Añadir esta línea
 
 public class Arco : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class Arco : MonoBehaviour
     private float currentEnergia; // Energía actual del arco
     private bool isCharging; // Indicador de si se está cargando el arco
     private float startChargeTime; // Tiempo en el que se empezó a cargar el arco
+    private bool puedeDisparar = true; // Controla si se puede disparar una flecha
 
     void Start()
     {
@@ -27,13 +29,13 @@ public class Arco : MonoBehaviour
     void Update()
     {
         // Controlar el disparo del arco
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && puedeDisparar)
         {
             StartCargaArco();
         }
-        else if (Input.GetMouseButtonUp(0))
+        else if (Input.GetMouseButtonUp(0) && isCharging)
         {
-            DispararFlecha();
+            StartCoroutine(DispararFlecha());
         }
 
         // Recargar energía automáticamente
@@ -49,7 +51,7 @@ public class Arco : MonoBehaviour
         startChargeTime = Time.time;
     }
 
-    void DispararFlecha()
+    IEnumerator DispararFlecha()
     {
         if (isCharging)
         {
@@ -60,6 +62,12 @@ public class Arco : MonoBehaviour
         }
 
         isCharging = false;
+        puedeDisparar = false; // Desactivar disparo
+
+        // Esperar 1 segundo antes de permitir otro disparo
+        yield return new WaitForSeconds(1f);
+
+        puedeDisparar = true; // Permitir disparo de nuevo
     }
 
     void InstantiateFlecha(float chargeDuration)
@@ -81,5 +89,8 @@ public class Arco : MonoBehaviour
         {
             Debug.LogError("El prefab de la flecha no tiene un componente Rigidbody.");
         }
+
+        // Destruir la flecha después de 8 segundos
+        Destroy(flecha, 8f);
     }
 }
