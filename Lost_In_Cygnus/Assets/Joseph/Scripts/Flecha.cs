@@ -23,5 +23,14 @@ public class Flecha : MonoBehaviour
             }
             Destroy(gameObject);
         }
+        if (other.CompareTag("Boss"))
+        {
+            if (arco != null)
+            {
+                // Causar daño al enemigo a través del arco
+                arco.CausarDañoBoss(other);
+            }
+            Destroy(gameObject);
+        }
     }
 }

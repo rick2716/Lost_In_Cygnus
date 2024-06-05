@@ -105,5 +105,16 @@ public class Arco : MonoBehaviour
         {
             enemyHealth.TakeDamage(daño);
         }
+
+    }
+
+    public void CausarDañoBoss(Collider enemigoCollider)
+    {
+        Boss enemyHealth = enemigoCollider.GetComponent<Boss>();
+        if (enemyHealth != null)
+        {
+            enemyHealth.TakeDamage(daño);
+        }
+
     }
 }

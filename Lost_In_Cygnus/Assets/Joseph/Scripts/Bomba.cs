@@ -56,6 +56,24 @@ public class Bomba : MonoBehaviour
                 {
                     enemyHealth.TakeDamage(daño);
                 }
+
+            }
+            if (cercano.CompareTag("Boss"))
+            {
+                Rigidbody rb = cercano.GetComponent<Rigidbody>();
+
+                if (rb != null)
+                {
+                    rb.AddExplosionForce(fuerzaDeDaño, posición, radioDeDaño);
+                }
+
+                // Aplicar daño a los enemigos
+                Boss enemyHealth = cercano.GetComponent<Boss>();
+                if (enemyHealth != null)
+                {
+                    enemyHealth.TakeDamage(daño);
+                }
+
             }
         }
     }
