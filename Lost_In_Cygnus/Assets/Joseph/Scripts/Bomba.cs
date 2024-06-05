@@ -31,7 +31,9 @@ public class Bomba : MonoBehaviour
     void Explosión(Vector3 posición)
     {
         // Instanciar el efecto de partículas de la explosión en la posición del suelo
-        Instantiate(explosionEffectPrefab, posición, Quaternion.identity);
+        GameObject explosionEffect = Instantiate(explosionEffectPrefab, posición, Quaternion.identity);
+        // Destruir el efecto de partículas después de 8 segundos
+        Destroy(explosionEffect, 8f);
 
         // Encontrar todos los colliders en el radio de daño
         Collider[] colliders = Physics.OverlapSphere(posición, radioDeDaño);
