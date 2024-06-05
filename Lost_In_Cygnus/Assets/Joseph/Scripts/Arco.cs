@@ -1,34 +1,34 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections; // Añadir esta línea
+using System.Collections;
 
 public class Arco : MonoBehaviour
 {
-    public Slider sliderEnergia; // Referencia al slider de energía
-    public float maxEnergia = 100f; // Valor máximo de energía
-    public float regeneracionPorSegundo = 10f; // Velocidad de regeneración de energía por segundo
-    public float minDuracionClic = 0.1f; // Duración mínima de clic para usar energía
-    public float maxDuracionClic = 1.0f; // Duración máxima de clic para usar energía
-    public float energiaUsadaPorSegundo = 20f; // Cantidad de energía usada por segundo al cargar el arco
-    public GameObject flechaPrefab; // Prefab de la flecha
-    public Transform puntoDisparo; // Punto desde donde se disparan las flechas
-    public float fuerzaDisparo = 10f; // Fuerza con la que se dispara la flecha
+    public Slider sliderEnergia;
+    public float maxEnergia = 100f;
+    public float regeneracionPorSegundo = 10f;
+    public float minDuracionClic = 0.1f;
+    public float maxDuracionClic = 1.0f;
+    public float energiaUsadaPorSegundo = 20f;
+    public GameObject flechaPrefab;
+    public Transform puntoDisparo;
+    public float fuerzaDisparo = 10f;
+    public int daño = 20; // Cantidad de daño que hace la bomba
 
-    private float currentEnergia; // Energía actual del arco
-    private bool isCharging; // Indicador de si se está cargando el arco
-    private float startChargeTime; // Tiempo en el que se empezó a cargar el arco
-    private bool puedeDisparar = true; // Controla si se puede disparar una flecha
+    private float currentEnergia;
+    private bool isCharging;
+    private float startChargeTime;
+    private bool puedeDisparar = true;
 
     void Start()
     {
         currentEnergia = maxEnergia;
-        sliderEnergia.maxValue = maxEnergia; // Configura el valor máximo del slider
-        sliderEnergia.value = currentEnergia; // Inicializa el valor del slider
+        sliderEnergia.maxValue = maxEnergia;
+        sliderEnergia.value = currentEnergia;
     }
 
     void Update()
     {
-        // Controlar el disparo del arco
         if (Input.GetMouseButtonDown(0) && puedeDisparar)
         {
             StartCargaArco();
@@ -38,10 +38,8 @@ public class Arco : MonoBehaviour
             StartCoroutine(DispararFlecha());
         }
 
-        // Recargar energía automáticamente
         currentEnergia = Mathf.Clamp(currentEnergia + regeneracionPorSegundo * Time.deltaTime, 0f, maxEnergia);
 
-        // Actualizar el slider de energía
         sliderEnergia.value = currentEnergia;
     }
 
@@ -62,35 +60,50 @@ public class Arco : MonoBehaviour
         }
 
         isCharging = false;
-        puedeDisparar = false; // Desactivar disparo
+        puedeDisparar = false;
 
-        // Esperar 1 segundo antes de permitir otro disparo
         yield return new WaitForSeconds(1f);
 
-        puedeDisparar = true; // Permitir disparo de nuevo
+        puedeDisparar = true;
     }
 
     void InstantiateFlecha(float chargeDuration)
     {
-        // Instantiate y configura la flecha
         GameObject flecha = Instantiate(flechaPrefab, puntoDisparo.position, puntoDisparo.rotation);
         Rigidbody rb = flecha.GetComponent<Rigidbody>();
 
         if (rb != null)
         {
-            // Calcula la fuerza de disparo basada en la duración de la carga
             float fuerza = Mathf.Lerp(0, fuerzaDisparo, Mathf.Clamp01(chargeDuration / maxDuracionClic));
             rb.AddForce(puntoDisparo.forward * fuerza, ForceMode.Impulse);
-
-            // Debugging: Verificar que el Rigidbody tiene gravedad habilitada
             Debug.Log("Gravedad habilitada en la flecha: " + rb.useGravity);
+
+            // Para causar daño al enemigo cuando la flecha colisiona
+            Flecha flechaScript = flecha.GetComponent<Flecha>();
+            if (flechaScript != null)
+            {
+                flechaScript.SetearArco(this); // Establece una referencia al arco para que la flecha pueda causar daño al enemigo
+            }
+            else
+            {
+                Debug.LogError("El prefab de la flecha no tiene un componente Flecha.");
+            }
         }
         else
         {
             Debug.LogError("El prefab de la flecha no tiene un componente Rigidbody.");
         }
 
-        // Destruir la flecha después de 8 segundos
         Destroy(flecha, 8f);
+    }
+
+    // Método para causar daño al enemigo
+    public void CausarDañoEnemigo(Collider enemigoCollider)
+    {
+        EnemyHealth enemyHealth = enemigoCollider.GetComponent<EnemyHealth>();
+        if (enemyHealth != null)
+        {
+            enemyHealth.TakeDamage(daño);
+        }
     }
 }

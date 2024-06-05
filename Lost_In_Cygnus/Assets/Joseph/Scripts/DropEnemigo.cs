@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DropEnemigo: MonoBehaviour
+public class DropEnemigo : MonoBehaviour
 {
     public GameObject DropPrefab; // El prefab de la versión pequeña de la piedra
     private bool cercaDelJugador = false;
@@ -29,15 +29,15 @@ public class DropEnemigo: MonoBehaviour
         }
     }
 
-    void DestruirPiedra()
+    public void DestruirPiedra()
     {
-        // Destruir la piedra grande
-        Destroy(gameObject);
-
         // Instanciar la versión pequeña
         GameObject Item = Instantiate(DropPrefab, transform.position, Quaternion.identity);
 
         // Añadir el componente que la hará flotar y rotar
         Item.AddComponent<FlotarYRotar>();
+
+        // Destruir este GameObject
+        Destroy(gameObject);
     }
 }
