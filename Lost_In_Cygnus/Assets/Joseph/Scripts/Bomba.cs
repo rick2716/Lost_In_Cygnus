@@ -51,7 +51,7 @@ public class Bomba : MonoBehaviour
                 }
 
                 // Aplicar daño a los enemigos
-                EnemyHealth enemyHealth = cercano.GetComponent<EnemyHealth>();
+                Enemies enemyHealth = cercano.GetComponent<Enemies>();
                 if (enemyHealth != null)
                 {
                     enemyHealth.TakeDamage(daño);

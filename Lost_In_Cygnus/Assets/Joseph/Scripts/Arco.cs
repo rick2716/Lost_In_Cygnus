@@ -100,7 +100,7 @@ public class Arco : MonoBehaviour
     // Método para causar daño al enemigo
     public void CausarDañoEnemigo(Collider enemigoCollider)
     {
-        EnemyHealth enemyHealth = enemigoCollider.GetComponent<EnemyHealth>();
+        Enemies enemyHealth = enemigoCollider.GetComponent<Enemies>();
         if (enemyHealth != null)
         {
             enemyHealth.TakeDamage(daño);
