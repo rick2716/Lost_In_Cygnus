@@ -1701,6 +1701,8 @@ MonoBehaviour:
   spawnPointSpit: {fileID: 855946787}
   prefabSpit: {fileID: 4131429453803685214, guid: 007c16a3be4c7944296b83ae4d587e31,
     type: 3}
+  maxHealth: 30
+  currentHealth: 0
 --- !u!195 &281879609
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3377,7 +3379,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 628717628}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dbe09ca81af7a3e4bb976519a713305a, type: 3}
   m_Name: 
@@ -3400,7 +3402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 628717628}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a11e4b4cebe3c0541ba333d5f0661e6d, type: 3}
   m_Name: 

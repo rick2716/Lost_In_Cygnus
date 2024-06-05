@@ -23,6 +23,11 @@ public class Boss : MonoBehaviour
     public Transform spawnPointSpit;
     public GameObject prefabSpit;
 
+    [Header("Vida")]
+    public int maxHealth = 30; // Vida máxima del enemigo
+    [SerializeField] private int currentHealth; // Vida actual del enemigo
+    private DropEnemigo dropEnemigo; // Referencia al script DropEnemigo
+
     private Transform player;
     private NavMeshAgent agent;
     private Animator animator;
@@ -34,6 +39,9 @@ public class Boss : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         timer = 0;
         initialSpeed = agent.speed;
+
+        currentHealth = maxHealth;
+        dropEnemigo = GetComponent<DropEnemigo>(); // Obtener referencia al script DropEnemigo
     }
 
     // Update is called once per frame
@@ -76,6 +84,23 @@ public class Boss : MonoBehaviour
             animator.SetBool("Run", false);
 
         }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        currentHealth -= amount;
+        if (currentHealth <= 0)
+        {
+            animator.SetTrigger("Die");
+            agent.SetDestination(transform.position);
+            agent.speed = 0;
+        }
+    }
+
+    public void DestruirEnemigo()
+    {
+        dropEnemigo.DestruirPiedra();
+        Destroy(gameObject);
     }
 
     public void TurnOffColliders()
