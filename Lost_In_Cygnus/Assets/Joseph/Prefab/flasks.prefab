@@ -147,9 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   "radioDeDa\xF1o": 1
-  "fuerzaDeDa\xF1o": 700
-  capasAfectadas:
-    serializedVersion: 2
-    m_Bits: 4294967295
+  "fuerzaDeDa\xF1o": 100
+  "da\xF1o": 5
   explosionEffectPrefab: {fileID: 100004, guid: 33384af7b24a0f14cb7bbf3b795f7a2b,
     type: 3}
