@@ -234,6 +234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3122540043436306228}
   - component: {fileID: 2955937548120010466}
+  - component: {fileID: 8741242249056244660}
   m_Layer: 0
   m_Name: ColliderClaw1
   m_TagString: Untagged
@@ -277,6 +278,19 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8741242249056244660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1226016815512141254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ee83258d68e4e247972e2d65f1f6b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
 --- !u!1 &1242844862036251465
 GameObject:
   m_ObjectHideFlags: 0
@@ -1938,6 +1952,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7787705484115592766}
   - component: {fileID: 3075620276959914863}
+  - component: {fileID: 4014798748439594583}
   m_Layer: 0
   m_Name: ColliderClaw2
   m_TagString: Untagged
@@ -1981,6 +1996,19 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4014798748439594583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7878614900616948115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ee83258d68e4e247972e2d65f1f6b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
 --- !u!1 &8142068089308989894
 GameObject:
   m_ObjectHideFlags: 0
@@ -2285,9 +2313,11 @@ GameObject:
   - component: {fileID: 6413337599907470840}
   - component: {fileID: 6057329148923922509}
   - component: {fileID: 5647961106293037402}
+  - component: {fileID: 5663610713558490953}
+  - component: {fileID: 4984241121706024958}
   m_Layer: 0
   m_Name: Arthromahre
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2416,15 +2446,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wanderRadius: 30
   chaseRadius: 15
-  attackRadius: 2
+  attackRadius: 4
   wanderTimer: 5
-  maxVida: 10
-  vida: 0
-  damagePerHit: 2
+  maxHealth: 30
+  currentHealth: 0
   colliderBite: {fileID: 0}
   colliderSting: {fileID: 0}
   colliderClaw1: {fileID: 1226016815512141254}
   colliderClaw2: {fileID: 7878614900616948115}
+--- !u!114 &5663610713558490953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8827425494276453216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae23631aeb76e774fa1846ce02862c8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DropPrefab1: {fileID: 16494178673301891, guid: 277f3cf0d8d9df3429c00e59b7f3fe0d,
+    type: 3}
+  DropPrefab2: {fileID: 3183077170615509435, guid: dcd845db7faa9e5478f003f16f716b75,
+    type: 3}
+  separacion: 0.5
+--- !u!136 &4984241121706024958
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8827425494276453216}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.4980168
+  m_Height: 4.227924
+  m_Direction: 1
+  m_Center: {x: -0.00081014633, y: 2.066192, z: 0}
 --- !u!1 &8902740074585589967
 GameObject:
   m_ObjectHideFlags: 0

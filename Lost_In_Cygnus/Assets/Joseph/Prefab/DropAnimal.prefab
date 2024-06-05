@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 4099805435861797580}
   - component: {fileID: 3000612768691345696}
   - component: {fileID: 6473133667268805978}
+  - component: {fileID: 337982625245749014}
   m_Layer: 0
-  m_Name: drop
+  m_Name: DropAnimal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5cbeb4abc6b9d2e4896328ea504b1912, type: 2}
+  - {fileID: 2100000, guid: 67b0357d0bf16874cb6ae1d366d49514, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -105,3 +106,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &337982625245749014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 16494178673301891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69dbc9291f18ece49b495e0b7a8c733a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryManager: {fileID: 0}
+  itemToPickup: {fileID: 11400000, guid: 21cd4b9d1fd21a44bbf198916013eeba, type: 2}

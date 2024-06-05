@@ -1,0 +1,3997 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &13158716734548456
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 46542176850925708}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &46542176850925708
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13158716734548456}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000043372044, y: -0.000000025781187, z: 0.095218755,
+    w: 0.9954564}
+  m_LocalPosition: {x: -0.11272915, y: 0.000000057220458, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1186191821301553175}
+  m_Father: {fileID: 1661124224416503627}
+  m_LocalEulerAnglesHint: {x: -0.0000018045504, y: 0.0000016328348, z: -4.2651687}
+--- !u!1 &18533608668462341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3503935108624171048}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3503935108624171048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 18533608668462341}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000011474303, y: 0.0000000026679952, z: -0.09315573, w: 0.99565154}
+  m_LocalPosition: {x: -0.15078078, y: 0.00000015258789, z: -0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3035048337782094857}
+  m_Father: {fileID: 3765477422833835347}
+  m_LocalEulerAnglesHint: {x: -0.0000000646762, y: 0.0000006370554, z: 5.797015}
+--- !u!1 &357034326197970446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6862056754694197751}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6862056754694197751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357034326197970446}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000021414135, y: -0.0000003878196, z: -0.093853876, w: 0.995586}
+  m_LocalPosition: {x: -0.1325476, y: -0.00000030517577, z: 0.000000076293944}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2288226232658838020}
+  m_Father: {fileID: 1442937038562818483}
+  m_LocalEulerAnglesHint: {x: 0.21099155, y: 0.3345671, z: -30.039383}
+--- !u!1 &518153969197664629
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5758661016954845098}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5758661016954845098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518153969197664629}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000000556934, y: 4.5549703e-10, z: -0.081514366, w: 0.99667215}
+  m_LocalPosition: {x: -0.14444229, y: 0, z: -0.00000030517577}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8929272012633349030}
+  m_Father: {fileID: 7034862480094717550}
+  m_LocalEulerAnglesHint: {x: -0.0000003794726, y: 0.00000058861013, z: 15.064909}
+--- !u!1 &683145705538996809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4519718502617069486}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4519718502617069486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683145705538996809}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000045236293, y: -0.00000015386406, z: 0.036872596, w: 0.99932}
+  m_LocalPosition: {x: -0.4747351, y: 0.00000030517577, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 735483400664735214}
+  m_Father: {fileID: 5671302302263702235}
+  m_LocalEulerAnglesHint: {x: -1.4400835, y: 0.119004846, z: 11.877094}
+--- !u!1 &785271715360683260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3192336701112677414}
+  m_Layer: 0
+  m_Name: Skorpmare_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3192336701112677414
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 785271715360683260}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.921318e-14, y: 0.0000005744932, z: -0.207129, w: 0.9783137}
+  m_LocalPosition: {x: -1.4402394, y: -0.0006430435, z: -0.0000000017840648}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4381949128800339768}
+  m_LocalEulerAnglesHint: {x: -0.0018916709, y: 0.0003228927, z: -25.302713}
+--- !u!1 &819910713785443870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1186191821301553175}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1186191821301553175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819910713785443870}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000013579637, y: -0.0000000064788033, z: 0.06460647,
+    w: 0.99791086}
+  m_LocalPosition: {x: -0.103990406, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 46542176850925708}
+  m_LocalEulerAnglesHint: {x: 0.0000005348403, y: 0.000003912314, z: -7.7844744}
+--- !u!1 &824862667660567306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4895632237088851851}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4895632237088851851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824862667660567306}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000011742328, y: -0.000001761551, z: -0.00043520323, w: 0.99999994}
+  m_LocalPosition: {x: -0.45015624, y: 0, z: 0.000000114440915}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5473243343854884536}
+  m_Father: {fileID: 3190563026022287521}
+  m_LocalEulerAnglesHint: {x: -1.2240229, y: 4.551043, z: 29.682726}
+--- !u!1 &825412360015648749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2257840585161722506}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2257840585161722506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825412360015648749}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000007602082, y: -0.0000002959373, z: -0.011929511, w: 0.99992883}
+  m_LocalPosition: {x: -0.53485715, y: -0.00000022888183, z: -0.0000005340576}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1.0000004}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4463479816978905104}
+  m_Father: {fileID: 1459340865755909545}
+  m_LocalEulerAnglesHint: {x: 0.12352246, y: -1.4008006, z: 12.071921}
+--- !u!1 &937646096617312521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1049542406092592552}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1049542406092592552
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 937646096617312521}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9276459, y: -0.37326026, z: -0.011355012, w: 0.0045689642}
+  m_LocalPosition: {x: -0.4324623, y: 1.126829, z: 0.0013806724}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2093510862862292437}
+  m_Father: {fileID: 7274603779959951477}
+  m_LocalEulerAnglesHint: {x: 1.5710492, y: 174.4287, z: -152.51216}
+--- !u!1 &944903605846162558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6710893647809984738}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6710893647809984738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944903605846162558}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.35206103, y: 0.7960058, z: 0.12423107, w: -0.47643933}
+  m_LocalPosition: {x: -0.0000007629394, y: -0.0000007629394, z: -0.47976652}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1678761239938234071}
+  m_Father: {fileID: 3339498207833163827}
+  m_LocalEulerAnglesHint: {x: 4.541078, y: -137.8708, z: -43.722046}
+--- !u!1 &1045496124950712659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8227461342959750571}
+  - component: {fileID: 182576580884368357}
+  - component: {fileID: 5466921658991035917}
+  - component: {fileID: 7809431792797824668}
+  - component: {fileID: 6593162753396836187}
+  - component: {fileID: 9214663083437599222}
+  - component: {fileID: 7068572107559074598}
+  - component: {fileID: 8297459963915768811}
+  m_Layer: 0
+  m_Name: Skorpmare
+  m_TagString: Boss
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8227461342959750571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 18.946228, y: 0.0000009536743, z: -28.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2502064482722019092}
+  - {fileID: 1005844713106693555}
+  - {fileID: 6501334371261577789}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &182576580884368357
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 728d3fa9617f49c4daa306325baa05bc, type: 3}
+  m_Controller: {fileID: 9100000, guid: 6f878ce189fb6724ab72963d5dc20f9b, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!54 &5466921658991035917
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!136 &7809431792797824668
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.5410662
+  m_Height: 4.3936954
+  m_Direction: 1
+  m_Center: {x: 0.049370766, y: 1.758033, z: 0}
+--- !u!195 &6593162753396836187
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 1.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 4
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &9214663083437599222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c85e3e08601fb4cbd4199c5a75000d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkRadius: 30
+  chaseRadius: 15
+  attackRadius: 5
+  wanderTimer: 10
+  waitToChase: 5
+  randomAttack: 0
+  numAttacks: 4
+  colliderBite: {fileID: 7604635472392309984}
+  colliderTentacle1: {fileID: 5242561418625639558}
+  colliderTentacle2: {fileID: 6192688475938227011}
+  spawnPointSpit: {fileID: 6501334371261577789}
+  prefabSpit: {fileID: 4131429453803685214, guid: 007c16a3be4c7944296b83ae4d587e31,
+    type: 3}
+  maxHealth: 30
+  currentHealth: 0
+--- !u!114 &7068572107559074598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae23631aeb76e774fa1846ce02862c8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DropPrefab1: {fileID: 16494178673301891, guid: 277f3cf0d8d9df3429c00e59b7f3fe0d,
+    type: 3}
+  DropPrefab2: {fileID: 3183077170615509435, guid: dcd845db7faa9e5478f003f16f716b75,
+    type: 3}
+  separacion: 0.5
+--- !u!136 &8297459963915768811
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045496124950712659}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.5410662
+  m_Height: 4.3936954
+  m_Direction: 1
+  m_Center: {x: 0.049370766, y: 1.758033, z: 0}
+--- !u!1 &1075496670891727813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2263567453512083117}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2263567453512083117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1075496670891727813}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000014275234, y: -0.0000016943867, z: 0.0004348607, w: 0.99999994}
+  m_LocalPosition: {x: -0.45015654, y: -0.00000015258789, z: 0.00000072479247}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5767077338582486698}
+  m_Father: {fileID: 402909123499705304}
+  m_LocalEulerAnglesHint: {x: 1.2568645, y: 4.4883833, z: -29.579594}
+--- !u!1 &1078528675216073798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6448870171591364950}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerMiddle_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6448870171591364950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078528675216073798}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9891005, y: 0.14724188, z: 0.0000009748966, w: -0.0000015179384}
+  m_LocalPosition: {x: -1.6790655, y: -0.52059156, z: -0.0000044250487}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4775026833588289252}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: -0.0021337327, y: 179.98752, z: -176.8177}
+--- !u!1 &1129790554888374707
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4133046987099052346}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4133046987099052346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129790554888374707}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000003491011, y: 0.000000017742032, z: 0.6117095, w: 0.7910825}
+  m_LocalPosition: {x: -0.6406563, y: 0.00000015258789, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7274603779959951477}
+  m_Father: {fileID: 7046393380843483112}
+  m_LocalEulerAnglesHint: {x: -0.0000012815251, y: 0.0000019204142, z: 67.405914}
+--- !u!1 &1455460704114247179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1827866030557417269}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerRight_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1827866030557417269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455460704114247179}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.01207781, y: 0.10849134, z: -0.109982796, w: 0.9879208}
+  m_LocalPosition: {x: -0.10892418, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4149707470549402005}
+  m_Father: {fileID: 2288226232658838020}
+  m_LocalEulerAnglesHint: {x: 2.6064224, y: 8.001181, z: -7.230482}
+--- !u!1 &1609479119716458511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6224633863159325198}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6224633863159325198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1609479119716458511}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000094984057, y: 0.00000029929757, z: 0.01308069, w: 0.99991447}
+  m_LocalPosition: {x: -0.42112243, y: -0.00000030517577, z: 0.0000002670288}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 402909123499705304}
+  m_Father: {fileID: 4741851396493092649}
+  m_LocalEulerAnglesHint: {x: -0.0030385952, y: 0.61427337, z: 0.18148136}
+--- !u!1 &1863166951505954824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7046393380843483112}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7046393380843483112
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1863166951505954824}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.3520619, y: 0.7960064, z: -0.124231644, w: 0.4764377}
+  m_LocalPosition: {x: 0.00000061035155, y: 0.00000061035155, z: 0.47976652}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4133046987099052346}
+  m_Father: {fileID: 3339498207833163827}
+  m_LocalEulerAnglesHint: {x: -4.4720817, y: 141.23624, z: -43.475998}
+--- !u!1 &1914044674196556318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1101427041284405615}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1101427041284405615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1914044674196556318}
+  serializedVersion: 2
+  m_LocalRotation: {x: 7.3814127e-10, y: -0.000000001947295, z: -0.10114912, w: 0.9948713}
+  m_LocalPosition: {x: -0.11905159, y: 0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2709586308295625161}
+  m_LocalEulerAnglesHint: {x: -0.0000012861678, y: 0.0000004099948, z: 0.75410366}
+--- !u!1 &1969140188508593118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3765477422833835347}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3765477422833835347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1969140188508593118}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.11236144, y: 0.030029789, z: 0.256446, w: 0.95953566}
+  m_LocalPosition: {x: -1.1586818, y: -0.2560388, z: -0.02928604}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3503935108624171048}
+  m_Father: {fileID: 4840758173871908192}
+  m_LocalEulerAnglesHint: {x: -13.357816, y: 0.0000035100543, z: 46.413727}
+--- !u!1 &1999520237238628953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2879670972512706947}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2879670972512706947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999520237238628953}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9276459, y: -0.37326026, z: 0.011355043, w: -0.004568962}
+  m_LocalPosition: {x: -0.43246216, y: 1.1268291, z: -0.0013805961}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3050955740688876388}
+  m_Father: {fileID: 4120828519197070987}
+  m_LocalEulerAnglesHint: {x: -3.38538, y: -164.066, z: -152.93324}
+--- !u!1 &2014115079658287025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7946164295433174831}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7946164295433174831
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014115079658287025}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000011355288, y: 0.00000001099353, z: 0.0161848, w: 0.99986905}
+  m_LocalPosition: {x: -0.51175886, y: -0.000000076293944, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1459340865755909545}
+  m_Father: {fileID: 1280016575015142159}
+  m_LocalEulerAnglesHint: {x: 0.0034178083, y: -0.22921751, z: 3.8122537}
+--- !u!1 &2046668933415413104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2708056042416743247}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2708056042416743247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2046668933415413104}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000028452625, y: -0.000000096733665, z: -0.022310026, w: 0.9997511}
+  m_LocalPosition: {x: -0.48593506, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4601350993970304822}
+  m_Father: {fileID: 9027655924473085287}
+  m_LocalEulerAnglesHint: {x: -0.30140933, y: -1.6606196, z: -18.610441}
+--- !u!1 &2181410973373185019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5383295870529980929}
+  m_Layer: 0
+  m_Name: Skorpmare_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5383295870529980929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2181410973373185019}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.23171571, y: 0.7055838, z: -0.19399415, w: 0.6409568}
+  m_LocalPosition: {x: -0.6276066, y: 0.2162481, z: 0.3433135}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3621871731925756205}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 0.195576, y: 74.76282, z: -38.373806}
+--- !u!1 &2196530995713316112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4463479816978905104}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4463479816978905104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2196530995713316112}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000030916374, y: 0.00000005036097, z: 0.022310149, w: 0.9997511}
+  m_LocalPosition: {x: -0.48593506, y: 0.000000076293944, z: 0.000000629425}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4741851396493092649}
+  m_Father: {fileID: 2257840585161722506}
+  m_LocalEulerAnglesHint: {x: 0.29770374, y: -1.6533984, z: 18.44768}
+--- !u!1 &2449858358385163608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1661124224416503627}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1661124224416503627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2449858358385163608}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5150625, y: -0.20141353, z: 0.80970746, w: -0.19625792}
+  m_LocalPosition: {x: -0.20364639, y: 1.1029392, z: -0.112746716}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 46542176850925708}
+  m_Father: {fileID: 4120828519197070987}
+  m_LocalEulerAnglesHint: {x: 9.524497, y: 84.45682, z: -161.00665}
+--- !u!1 &2518038529181565441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3339498207833163827}
+  m_Layer: 0
+  m_Name: Skorpmare_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3339498207833163827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2518038529181565441}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5364205, y: 0.46070847, z: 0.4607086, w: 0.5364219}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7046393380843483112}
+  - {fileID: 6710893647809984738}
+  - {fileID: 7549289504937028705}
+  - {fileID: 4381949128800339768}
+  m_Father: {fileID: 4792771400629087137}
+  m_LocalEulerAnglesHint: {x: -90, y: 81.31557, z: 0}
+--- !u!1 &2573461118707070659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5772440773698538562}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5772440773698538562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2573461118707070659}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000014306719, y: 0.00000019076396, z: -0.019012043, w: 0.9998193}
+  m_LocalPosition: {x: -0.46576294, y: -0.00000030517577, z: 0.00000057220456}
+  m_LocalScale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8952043845044889067}
+  m_Father: {fileID: 157541835342803655}
+  m_LocalEulerAnglesHint: {x: 0.93072, y: 2.235306, z: -21.589045}
+--- !u!1 &2580925558490182855
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7274603779959951477}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7274603779959951477
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2580925558490182855}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.03157118, y: -0.013008285, z: -0.2535944, w: 0.9667078}
+  m_LocalPosition: {x: -0.6155862, y: 0.000000038146972, z: -0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5143262045308948661}
+  - {fileID: 1049542406092592552}
+  - {fileID: 116155106727248805}
+  m_Father: {fileID: 4133046987099052346}
+  m_LocalEulerAnglesHint: {x: -0.69833004, y: 0.7708073, z: -17.652113}
+--- !u!1 &2588922766249039339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1545252695094286427}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1545252695094286427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2588922766249039339}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000428014, y: -0.0000001858878, z: -0.036873024, w: 0.99932}
+  m_LocalPosition: {x: -0.4747351, y: 0.00000061035155, z: -0.000001373291}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6316049101767776798}
+  m_Father: {fileID: 8952043845044889067}
+  m_LocalEulerAnglesHint: {x: 2.3426318, y: -0.30537418, z: -11.86888}
+--- !u!1 &2652193992109855280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5067137240680716674}
+  m_Layer: 0
+  m_Name: Skorpmare_LowerJaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5067137240680716674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2652193992109855280}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000036035786, y: 0.00000023977915, z: 0.27048352, w: 0.9627246}
+  m_LocalPosition: {x: -0.31312165, y: -0.056628723, z: 0.000000046610893}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6492921074322390053}
+  m_LocalEulerAnglesHint: {x: -0.049237005, y: 0.46446478, z: 4.2259045}
+--- !u!1 &2838766905354431493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1595259276798249035}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1595259276798249035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2838766905354431493}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000020028587, y: -0.000000005377541, z: -0.093043804,
+    w: 0.99566203}
+  m_LocalPosition: {x: -0.10512356, y: 0.000000038146972, z: 0.00000030517577}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1804191473963436753}
+  m_LocalEulerAnglesHint: {x: -0.00000018797319, y: -0.0000008328237, z: -12.718872}
+--- !u!1 &2854944865372791321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3035048337782094857}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3035048337782094857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2854944865372791321}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000009771912, y: -0.0000000047403517, z: -0.088646464,
+    w: 0.9960632}
+  m_LocalPosition: {x: -0.13005859, y: -0.00000030517577, z: 0.000000076293944}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3503935108624171048}
+  m_LocalEulerAnglesHint: {x: -0.0000003245021, y: -0.00000094859035, z: 6.3158817}
+--- !u!1 &2925327951671429570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8929272012633349030}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8929272012633349030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2925327951671429570}
+  serializedVersion: 2
+  m_LocalRotation: {x: 7.381412e-10, y: -0.0000000019472948, z: -0.10114911, w: 0.9948713}
+  m_LocalPosition: {x: -0.119051665, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5758661016954845098}
+  m_LocalEulerAnglesHint: {x: 0.0000007423582, y: 0.0000005859881, z: 12.805444}
+--- !u!1 &2935483101446588478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5655117871881330765}
+  m_Layer: 0
+  m_Name: Skorpmare_LowerClawRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5655117871881330765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2935483101446588478}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.11349413, y: -0.10204872, z: -0.074592866, w: 0.9854649}
+  m_LocalPosition: {x: -1.2825091, y: 0.43816864, z: -0.33500114}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: -3.3750064, y: 0.4289456, z: 44.14966}
+--- !u!1 &3002411371275581107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3190563026022287521}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3190563026022287521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3002411371275581107}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000016702992, y: 0.0000016526886, z: -0.0014267878, w: 0.999999}
+  m_LocalPosition: {x: -0.50999326, y: 0.00000030517577, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4895632237088851851}
+  m_Father: {fileID: 4593856951136443495}
+  m_LocalEulerAnglesHint: {x: -0.4251601, y: 2.90835, z: 16.827055}
+--- !u!1 &3059263560342788525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1804191473963436753}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1804191473963436753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3059263560342788525}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021058826, y: 1.366768e-10, z: -0.09304373, w: 0.99566203}
+  m_LocalPosition: {x: -0.117516324, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1595259276798249035}
+  m_Father: {fileID: 7400663116510004832}
+  m_LocalEulerAnglesHint: {x: 0.00000014097996, y: 0.00000062461794, z: -12.718875}
+--- !u!1 &3119461078105838832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2644810126307795462}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2644810126307795462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3119461078105838832}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000019358906, y: 0.00000001303595, z: -0.09315571, w: 0.9956516}
+  m_LocalPosition: {x: -0.15078095, y: -0.00000015258789, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6922254997482093224}
+  m_Father: {fileID: 4482829050348356696}
+  m_LocalEulerAnglesHint: {x: 0.00000037928837, y: -0.0000014372569, z: -6.2543283}
+--- !u!1 &3294840787773995520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4593856951136443495}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4593856951136443495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3294840787773995520}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000009632844, y: -0.0000001587769, z: -0.0130803175, w: 0.99991447}
+  m_LocalPosition: {x: -0.42112273, y: 0.00000015258789, z: 0.00000019073485}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3190563026022287521}
+  m_Father: {fileID: 4601350993970304822}
+  m_LocalEulerAnglesHint: {x: 0.016375735, y: 0.5782252, z: -0.53584194}
+--- !u!1 &3296667000689974680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1976103679558929437}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerLeft_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1976103679558929437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3296667000689974680}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0065718605, y: -0.052888833, z: 0.11327114, w: 0.9921337}
+  m_LocalPosition: {x: -0.08483116, y: 0, z: -0.000000038146972}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5102154934113898316}
+  m_LocalEulerAnglesHint: {x: -0.8188228, y: -3.997251, z: 7.95165}
+--- !u!1 &3411388002705462184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3433673232436236517}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3433673232436236517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3411388002705462184}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000018855697, y: -0.000000006849718, z: 0.032053094, w: 0.9994862}
+  m_LocalPosition: {x: -0.13308196, y: 0.000000038146972, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7425038978978126752}
+  m_Father: {fileID: 5143262045308948661}
+  m_LocalEulerAnglesHint: {x: 0.0000014263368, y: -0.0000012689408, z: -15.092846}
+--- !u!1 &3558119104866989240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2502064482722019092}
+  m_Layer: 0
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2502064482722019092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3558119104866989240}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4792771400629087137}
+  m_Father: {fileID: 8227461342959750571}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &3629153517180969398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3621871731925756205}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3621871731925756205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3629153517180969398}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000017420506, y: -0.0000000023036237, z: 0.63659346,
+    w: 0.77119964}
+  m_LocalPosition: {x: -0.77047604, y: 0.00000015258789, z: -0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4840758173871908192}
+  m_Father: {fileID: 5383295870529980929}
+  m_LocalEulerAnglesHint: {x: 0.000002503535, y: 0.0000024005205, z: 80.66652}
+--- !u!1 &3679305728981667128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 157541835342803655}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &157541835342803655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3679305728981667128}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000016750326, y: -0.00000021304172, z: -0.010709333, w: 0.99994266}
+  m_LocalPosition: {x: -0.43813536, y: 0.0000012207031, z: 0.00000061035155}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5772440773698538562}
+  m_Father: {fileID: 5767077338582486698}
+  m_LocalEulerAnglesHint: {x: 1.0570854, y: 3.2968853, z: -26.286726}
+--- !u!1 &3884111097325707683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4447071760190158124}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4447071760190158124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3884111097325707683}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000014269042, y: -0.0000000033454084, z: 0.010709367, w: 0.99994266}
+  m_LocalPosition: {x: -0.43813536, y: -0.00000061035155, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999964, y: 0.99999964, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1691715465298054870}
+  m_Father: {fileID: 5473243343854884536}
+  m_LocalEulerAnglesHint: {x: -0.9154504, y: 3.498532, z: 26.43785}
+--- !u!1 &4270619944011258152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1155088061561689202}
+  m_Layer: 0
+  m_Name: Skorpmare_UpperClawRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1155088061561689202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4270619944011258152}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.070418105, y: -0.11732958, z: -0.102443345, w: 0.98528194}
+  m_LocalPosition: {x: -1.1597137, y: 0.06289184, z: -0.45400214}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 7.5496006, y: -14.0773945, z: -51.16911}
+--- !u!1 &4307634785366729082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4482829050348356696}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4482829050348356696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4307634785366729082}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.11236143, y: -0.030029792, z: 0.25644597, w: 0.95953566}
+  m_LocalPosition: {x: -1.1586818, y: -0.25603926, z: 0.02928604}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2644810126307795462}
+  m_Father: {fileID: 4112796493587078270}
+  m_LocalEulerAnglesHint: {x: 13.357811, y: -0.0000017550271, z: 34.36238}
+--- !u!1 &4492660815061636480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4234813180874671126}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4234813180874671126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4492660815061636480}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000012056524, y: -0.0000000035554228, z: 0.20119597,
+    w: 0.979551}
+  m_LocalPosition: {x: -0.13217987, y: -0.00000015258789, z: 0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2093510862862292437}
+  m_LocalEulerAnglesHint: {x: -0.0000009272073, y: -0.0000033414797, z: 3.3446736}
+--- !u!1 &4621010478177617342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6492921074322390053}
+  m_Layer: 0
+  m_Name: Skorpmre_Throat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6492921074322390053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4621010478177617342}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9999587, y: 0.009088303, z: 0.00000066728427, w: -0.0000014856097}
+  m_LocalPosition: {x: -1.3561805, y: 0.09816895, z: -0.0000022125244}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5067137240680716674}
+  - {fileID: 7801372724096761451}
+  - {fileID: 474570981437334356}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: -0.63905513, y: -179.74698, z: 158.39001}
+--- !u!1 &4663013768448997021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1691715465298054870}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1691715465298054870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4663013768448997021}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000014152831, y: -0.0000000306383, z: 0.01901208, w: 0.9998193}
+  m_LocalPosition: {x: -0.46576294, y: 0, z: 0.00000022888183}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5671302302263702235}
+  m_Father: {fileID: 4447071760190158124}
+  m_LocalEulerAnglesHint: {x: -0.6226582, y: 2.5235765, z: 21.668938}
+--- !u!1 &4688599305943882359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3407296868078860508}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3407296868078860508
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4688599305943882359}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000019796591, y: 0.000000021655291, z: 0.20119597, w: 0.979551}
+  m_LocalPosition: {x: -0.13218002, y: -0.00000015258789, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3050955740688876388}
+  m_LocalEulerAnglesHint: {x: -0.0000013368056, y: 0.000003181416, z: 4.7770624}
+--- !u!1 &4761794449049565972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8692811625372548460}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8692811625372548460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4761794449049565972}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021857025, y: 0.000000006051116, z: 0.06460652, w: 0.99791086}
+  m_LocalPosition: {x: -0.103990495, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7517248061627009420}
+  m_LocalEulerAnglesHint: {x: -0.00000089830564, y: -0.00000020561707, z: -9.216865}
+--- !u!1 &4869005407709332646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5143262045308948661}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5143262045308948661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4869005407709332646}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.62348676, y: -0.32872972, z: 0.6881372, w: -0.17224486}
+  m_LocalPosition: {x: -0.23658752, y: 1.0622615, z: -0.18971679}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3433673232436236517}
+  m_Father: {fileID: 7274603779959951477}
+  m_LocalEulerAnglesHint: {x: 17.20896, y: 82.13062, z: -158.7616}
+--- !u!1 &4896144960790071966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3658764876410692632}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3658764876410692632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4896144960790071966}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.90291643, y: 0.34606135, z: -0.25450525, w: -0.014511259}
+  m_LocalPosition: {x: -0.5018917, y: -0.19167495, z: 0.41381136}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7071796759538989975}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 6.494947, y: -169.64713, z: 139.75952}
+--- !u!1 &4993902298733045758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5473243343854884536}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5473243343854884536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4993902298733045758}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000040668438, y: 0.00000026456772, z: -0.0045971167, w: 0.99998945}
+  m_LocalPosition: {x: -0.37754637, y: 0.00000015258789, z: 0.000000114440915}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4447071760190158124}
+  m_Father: {fileID: 4895632237088851851}
+  m_LocalEulerAnglesHint: {x: -1.1215845, y: 4.285558, z: 28.871775}
+--- !u!1 &5026340510530625920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1005844713106693555}
+  - component: {fileID: 4274079840772602739}
+  m_Layer: 0
+  m_Name: SK_Skorpmare
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1005844713106693555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5026340510530625920}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8227461342959750571}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4274079840772602739
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5026340510530625920}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8971be95c05d6684489f8d6d6b9b1502, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 728d3fa9617f49c4daa306325baa05bc, type: 3}
+  m_Bones:
+  - {fileID: 1545252695094286427}
+  - {fileID: 8952043845044889067}
+  - {fileID: 5772440773698538562}
+  - {fileID: 157541835342803655}
+  - {fileID: 5767077338582486698}
+  - {fileID: 7034862480094717550}
+  - {fileID: 3503935108624171048}
+  - {fileID: 3035048337782094857}
+  - {fileID: 5758661016954845098}
+  - {fileID: 8929272012633349030}
+  - {fileID: 7274603779959951477}
+  - {fileID: 3621871731925756205}
+  - {fileID: 4840758173871908192}
+  - {fileID: 7046393380843483112}
+  - {fileID: 5143262045308948661}
+  - {fileID: 3433673232436236517}
+  - {fileID: 1049542406092592552}
+  - {fileID: 7425038978978126752}
+  - {fileID: 116155106727248805}
+  - {fileID: 2093510862862292437}
+  - {fileID: 2505118382449975566}
+  - {fileID: 2263567453512083117}
+  - {fileID: 402909123499705304}
+  - {fileID: 6224633863159325198}
+  - {fileID: 7549289504937028705}
+  - {fileID: 1155088061561689202}
+  - {fileID: 4381949128800339768}
+  - {fileID: 8683312535704332267}
+  - {fileID: 211370220246575761}
+  - {fileID: 3765477422833835347}
+  - {fileID: 7946164295433174831}
+  - {fileID: 1280016575015142159}
+  - {fileID: 1459340865755909545}
+  - {fileID: 2257840585161722506}
+  - {fileID: 4463479816978905104}
+  - {fileID: 972174430048281948}
+  - {fileID: 5655117871881330765}
+  - {fileID: 2092510990177370013}
+  - {fileID: 9221133223517262028}
+  - {fileID: 3339498207833163827}
+  - {fileID: 6492921074322390053}
+  - {fileID: 7801372724096761451}
+  - {fileID: 3658764876410692632}
+  - {fileID: 7071796759538989975}
+  - {fileID: 3935750762405398000}
+  - {fileID: 5067137240680716674}
+  - {fileID: 1101427041284405615}
+  - {fileID: 2709586308295625161}
+  - {fileID: 6922254997482093224}
+  - {fileID: 2644810126307795462}
+  - {fileID: 4920256873827853141}
+  - {fileID: 5659587491458673758}
+  - {fileID: 4112796493587078270}
+  - {fileID: 6710893647809984738}
+  - {fileID: 7752774073905110790}
+  - {fileID: 6300086344514441762}
+  - {fileID: 4120828519197070987}
+  - {fileID: 2385352835880877127}
+  - {fileID: 3050955740688876388}
+  - {fileID: 2879670972512706947}
+  - {fileID: 1661124224416503627}
+  - {fileID: 4741851396493092649}
+  - {fileID: 5383295870529980929}
+  - {fileID: 4234813180874671126}
+  - {fileID: 1678761239938234071}
+  - {fileID: 3192336701112677414}
+  - {fileID: 1804191473963436753}
+  - {fileID: 7400663116510004832}
+  - {fileID: 4519718502617069486}
+  - {fileID: 5671302302263702235}
+  - {fileID: 1691715465298054870}
+  - {fileID: 4447071760190158124}
+  - {fileID: 5473243343854884536}
+  - {fileID: 4895632237088851851}
+  - {fileID: 3190563026022287521}
+  - {fileID: 4593856951136443495}
+  - {fileID: 9027655924473085287}
+  - {fileID: 2708056042416743247}
+  - {fileID: 4133046987099052346}
+  - {fileID: 4601350993970304822}
+  - {fileID: 1595259276798249035}
+  - {fileID: 4482829050348356696}
+  - {fileID: 1186191821301553175}
+  - {fileID: 46542176850925708}
+  - {fileID: 3407296868078860508}
+  - {fileID: 7517248061627009420}
+  - {fileID: 8692811625372548460}
+  - {fileID: 6448870171591364950}
+  - {fileID: 7490255830725028142}
+  - {fileID: 4634317948025865763}
+  - {fileID: 5102154934113898316}
+  - {fileID: 5072288402792089628}
+  - {fileID: 1976103679558929437}
+  - {fileID: 4775026833588289252}
+  - {fileID: 3236866282253416476}
+  - {fileID: 8465320722884832627}
+  - {fileID: 6946674238305174560}
+  - {fileID: 1442937038562818483}
+  - {fileID: 6862056754694197751}
+  - {fileID: 2288226232658838020}
+  - {fileID: 1827866030557417269}
+  - {fileID: 4149707470549402005}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 3339498207833163827}
+  m_AABB:
+    m_Center: {x: -1.1310142, y: -1.9600799, z: 0.0000071525574}
+    m_Extent: {x: 3.4563599, y: 3.7655184, z: 3.8432188}
+  m_DirtyAABB: 0
+--- !u!1 &5104957805485325354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5659587491458673758}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5659587491458673758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5104957805485325354}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000026154325, y: -0.000000017054807, z: 0.63659346, w: 0.77119964}
+  m_LocalPosition: {x: -0.7704759, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.99999976, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4112796493587078270}
+  m_Father: {fileID: 972174430048281948}
+  m_LocalEulerAnglesHint: {x: -0.0000033059455, y: -0.000006052551, z: 83.15772}
+--- !u!1 &5230779853279159721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7517248061627009420}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7517248061627009420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5230779853279159721}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000016292622, y: 0.000000004054996, z: 0.09521877, w: 0.9954564}
+  m_LocalPosition: {x: -0.11272899, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8692811625372548460}
+  m_Father: {fileID: 116155106727248805}
+  m_LocalEulerAnglesHint: {x: 0.000001980368, y: 0.00000049955344, z: -5.69755}
+--- !u!1 &5242561418625639558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 735483400664735214}
+  - component: {fileID: 5790777655973698113}
+  - component: {fileID: 5206088931381720200}
+  m_Layer: 0
+  m_Name: TentacleCollider1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &735483400664735214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5242561418625639558}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4519718502617069486}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &5790777655973698113
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5242561418625639558}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 3
+  m_Direction: 0
+  m_Center: {x: 0.48639652, y: 0.00000004379112, z: -0.00000043878765}
+--- !u!114 &5206088931381720200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5242561418625639558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ee83258d68e4e247972e2d65f1f6b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
+--- !u!1 &5393206524466512974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9221133223517262028}
+  m_Layer: 0
+  m_Name: Skorpmare_LowerClawLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9221133223517262028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5393206524466512974}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9854647, y: -0.07459241, z: -0.10204752, w: -0.11349711}
+  m_LocalPosition: {x: -1.28251, y: 0.4381668, z: 0.335278}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: -4.966223, y: 179.08186, z: 130.89375}
+--- !u!1 &5425754366312062423
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4840758173871908192}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4840758173871908192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5425754366312062423}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0082286345, y: -0.04827454, z: -0.83810055, w: 0.5433133}
+  m_LocalPosition: {x: -0.620281, y: 0.000000114440915, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8683312535704332267}
+  - {fileID: 3765477422833835347}
+  - {fileID: 7034862480094717550}
+  m_Father: {fileID: 3621871731925756205}
+  m_LocalEulerAnglesHint: {x: -1.9565966, y: -3.1679308, z: -109.00367}
+--- !u!1 &5478702686067678105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7549289504937028705}
+  m_Layer: 0
+  m_Name: Skorpmare_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7549289504937028705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5478702686067678105}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000020220682, y: 0.00000063920686, z: 0.07531565, w: 0.9971598}
+  m_LocalPosition: {x: -0.3255789, y: -0.3762834, z: 0.0000018480449}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5383295870529980929}
+  - {fileID: 972174430048281948}
+  - {fileID: 7490255830725028142}
+  - {fileID: 6448870171591364950}
+  - {fileID: 1442937038562818483}
+  - {fileID: 9221133223517262028}
+  - {fileID: 5655117871881330765}
+  - {fileID: 3658764876410692632}
+  - {fileID: 1280016575015142159}
+  - {fileID: 2092510990177370013}
+  - {fileID: 1155088061561689202}
+  - {fileID: 6492921074322390053}
+  m_Father: {fileID: 3339498207833163827}
+  m_LocalEulerAnglesHint: {x: -0.00023672957, y: 0.000055441316, z: 8.638716}
+--- !u!1 &5567180237474500058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6300086344514441762}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6300086344514441762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5567180237474500058}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000003008553, y: 0.000000008353185, z: 0.03205309, w: 0.9994862}
+  m_LocalPosition: {x: -0.13308194, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2385352835880877127}
+  m_Father: {fileID: 7752774073905110790}
+  m_LocalEulerAnglesHint: {x: -0.0000013751683, y: 0.0000024758804, z: -13.660456}
+--- !u!1 &5588773156406510967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4601350993970304822}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4601350993970304822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5588773156406510967}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000015900051, y: 0.000000047888793, z: 0.024252428, w: 0.9997059}
+  m_LocalPosition: {x: -0.40619293, y: 0.00000061035155, z: 0.0000001335144}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4593856951136443495}
+  m_Father: {fileID: 2708056042416743247}
+  m_LocalEulerAnglesHint: {x: -0.04186514, y: -1.0512137, z: -8.510494}
+--- !u!1 &5676897290074508781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5767077338582486698}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5767077338582486698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5676897290074508781}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000040667755, y: 0.0000002794689, z: 0.004597175, w: 0.99998945}
+  m_LocalPosition: {x: -0.37754637, y: -0.00000015258789, z: -0.00000030517577}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 157541835342803655}
+  m_Father: {fileID: 2263567453512083117}
+  m_LocalEulerAnglesHint: {x: 1.1853557, y: 4.156233, z: -28.676989}
+--- !u!1 &5707593472946182349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5072288402792089628}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5072288402792089628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5707593472946182349}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000011957393, y: 0.00000011437201, z: 0.08853876, w: 0.99607277}
+  m_LocalPosition: {x: -0.122528836, y: 0.00000015258789, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5102154934113898316}
+  m_Father: {fileID: 4634317948025865763}
+  m_LocalEulerAnglesHint: {x: -0.15637974, y: 1.0322591, z: 8.553495}
+--- !u!1 &5720906270880199023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8683312535704332267}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8683312535704332267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5720906270880199023}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6541956, y: 0.48296762, z: 0.16167757, w: 0.55913395}
+  m_LocalPosition: {x: -1.0655142, y: 0.05390869, z: 0.1342616}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 211370220246575761}
+  m_Father: {fileID: 4840758173871908192}
+  m_LocalEulerAnglesHint: {x: -62.590115, y: 134.46397, z: -57.092148}
+--- !u!1 &5747131228765753683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4792771400629087137}
+  m_Layer: 0
+  m_Name: Skorpmare_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4792771400629087137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5747131228765753683}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.52133363, y: 0.521334, z: -0.4777142, w: -0.47771457}
+  m_LocalPosition: {x: 0.00000068240166, y: 0.51649755, z: 1.0956614}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3525226832899314303}
+  - {fileID: 3339498207833163827}
+  m_Father: {fileID: 2502064482722019092}
+  m_LocalEulerAnglesHint: {x: 87.40255, y: 113.22423, z: -156.1535}
+--- !u!1 &5788093927902328442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7400663116510004832}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7400663116510004832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5788093927902328442}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.65419567, y: -0.48296753, z: 0.16167755, w: 0.55913395}
+  m_LocalPosition: {x: -1.0655143, y: 0.053908385, z: -0.13426156}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1804191473963436753}
+  m_Father: {fileID: 4112796493587078270}
+  m_LocalEulerAnglesHint: {x: 62.59013, y: -134.464, z: -69.143524}
+--- !u!1 &5801434680354023481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7034862480094717550}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7034862480094717550
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5801434680354023481}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.54144067, y: -0.4262918, z: 0.18933268, w: 0.6994787}
+  m_LocalPosition: {x: -1.0493392, y: -0.037302855, z: -0.17446636}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5758661016954845098}
+  m_Father: {fileID: 4840758173871908192}
+  m_LocalEulerAnglesHint: {x: 66.76207, y: -82.68517, z: -26.13594}
+--- !u!1 &5815095052655198727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8465320722884832627}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerMiddle_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8465320722884832627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5815095052655198727}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.888681e-16, y: 3.531368e-15, z: 0.10945661, w: 0.99399155}
+  m_LocalPosition: {x: -0.16278137, y: 0.0000007629394, z: -9.458745e-13}
+  m_LocalScale: {x: 0.99999976, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6946674238305174560}
+  m_Father: {fileID: 3236866282253416476}
+  m_LocalEulerAnglesHint: {x: -0.0075654704, y: 0.031041818, z: 8.693325}
+--- !u!1 &5876445758288501793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3236866282253416476}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerMiddle_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3236866282253416476
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5876445758288501793}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000009824528, y: -0.000000011912156, z: 0.12037106, w: 0.992729}
+  m_LocalPosition: {x: -0.15604934, y: 0.0000025939942, z: 4.3655745e-13}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8465320722884832627}
+  m_Father: {fileID: 4775026833588289252}
+  m_LocalEulerAnglesHint: {x: -0.0028374307, y: 0.03494231, z: 12.209753}
+--- !u!1 &5883052597063125670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7752774073905110790}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7752774073905110790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5883052597063125670}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6234867, y: 0.32872972, z: 0.6881373, w: -0.17224483}
+  m_LocalPosition: {x: -0.23658736, y: 1.0622616, z: 0.18971679}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6300086344514441762}
+  m_Father: {fileID: 4120828519197070987}
+  m_LocalEulerAnglesHint: {x: -15.550252, y: -71.05862, z: -158.96115}
+--- !u!1 &6192688475938227011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6316049101767776798}
+  - component: {fileID: 7287448294649810529}
+  - component: {fileID: 7386207891473361365}
+  m_Layer: 0
+  m_Name: TentacleCollider2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6316049101767776798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6192688475938227011}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1545252695094286427}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &7287448294649810529
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6192688475938227011}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 3
+  m_Direction: 0
+  m_Center: {x: 0.6063647, y: -0.0000002569491, z: 0.0000006113388}
+--- !u!114 &7386207891473361365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6192688475938227011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ee83258d68e4e247972e2d65f1f6b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
+--- !u!1 &6249816113564633109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 211370220246575761}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &211370220246575761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6249816113564633109}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000074778885, y: -0.0000000063110837, z: -0.09304375,
+    w: 0.99566203}
+  m_LocalPosition: {x: -0.11751621, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2505118382449975566}
+  m_Father: {fileID: 8683312535704332267}
+  m_LocalEulerAnglesHint: {x: 0.0000002159156, y: 0.00000021094222, z: -0.6675294}
+--- !u!1 &6319894556548409785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4775026833588289252}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerMiddle_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4775026833588289252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6319894556548409785}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000023339115, y: -0.0000000539667, z: 0.12967302, w: 0.9915568}
+  m_LocalPosition: {x: -0.19904052, y: 0.00000015258789, z: -0.000000023218599}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3236866282253416476}
+  m_Father: {fileID: 6448870171591364950}
+  m_LocalEulerAnglesHint: {x: -0.022848882, y: 0.02450082, z: 39.54212}
+--- !u!1 &6356458214904214548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5671302302263702235}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5671302302263702235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6356458214904214548}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000005466643, y: 0.0000007328371, z: -0.0028748335, w: 0.9999959}
+  m_LocalPosition: {x: -0.4690051, y: 0, z: 0.00000019073485}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4519718502617069486}
+  m_Father: {fileID: 1691715465298054870}
+  m_LocalEulerAnglesHint: {x: -0.40132496, y: 1.4718267, z: 14.087467}
+--- !u!1 &6408537690709858516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3525226832899314303}
+  m_Layer: 0
+  m_Name: Skorpmare_ Footsteps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3525226832899314303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6408537690709858516}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.52133346, y: 0.5213342, z: -0.47771406, w: 0.47771475}
+  m_LocalPosition: {x: -0.3635076, y: -0.000000041703114, z: 0.031802826}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4792771400629087137}
+  m_LocalEulerAnglesHint: {x: 0.64351296, y: 91.02402, z: -92.37568}
+--- !u!1 &6614543547289952238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2288226232658838020}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2288226232658838020
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6614543547289952238}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000012252594, y: 0.00000010987783, z: -0.088538945, w: 0.9960727}
+  m_LocalPosition: {x: -0.122528456, y: -0.00000030517577, z: 0.00000022888183}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1827866030557417269}
+  m_Father: {fileID: 6862056754694197751}
+  m_LocalEulerAnglesHint: {x: 0.19641429, y: 1.3766198, z: -7.6761203}
+--- !u!1 &6637755403422160870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7425038978978126752}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7425038978978126752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6637755403422160870}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021105608, y: 0.000000015762067, z: 0.14343955, w: 0.9896591}
+  m_LocalPosition: {x: -0.11109933, y: 0.000000028610229, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3433673232436236517}
+  m_LocalEulerAnglesHint: {x: 0.0000013092771, y: 0.00000069568017, z: -2.272632}
+--- !u!1 &6827752455603429339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8952043845044889067}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8952043845044889067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6827752455603429339}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000057421094, y: 0.00000080441123, z: 0.0028750717, w: 0.9999959}
+  m_LocalPosition: {x: -0.4690051, y: -0.0000012207031, z: 0.0000011444091}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1545252695094286427}
+  m_Father: {fileID: 5772440773698538562}
+  m_LocalEulerAnglesHint: {x: 1.0587577, y: 1.0894902, z: -14.06151}
+--- !u!1 &6852959851143424027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 116155106727248805}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &116155106727248805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6852959851143424027}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.51506245, y: 0.20141354, z: 0.8097074, w: -0.19625786}
+  m_LocalPosition: {x: -0.20364669, y: 1.102939, z: 0.112746716}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7517248061627009420}
+  m_Father: {fileID: 7274603779959951477}
+  m_LocalEulerAnglesHint: {x: -10.973665, y: -74.01269, z: -164.49411}
+--- !u!1 &7011296679548143494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9027655924473085287}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9027655924473085287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7011296679548143494}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000009312564, y: -0.000000011110171, z: 0.011929454, w: 0.99992883}
+  m_LocalPosition: {x: -0.53485686, y: 0.00000015258789, z: 0.000000019073486}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2708056042416743247}
+  m_Father: {fileID: 3935750762405398000}
+  m_LocalEulerAnglesHint: {x: -0.12105293, y: -1.3947204, z: -12.01095}
+--- !u!1 &7024950120464026782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 972174430048281948}
+  m_Layer: 0
+  m_Name: Skorpmare_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &972174430048281948
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7024950120464026782}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.23171748, y: -0.7055832, z: -0.1939961, w: 0.64095616}
+  m_LocalPosition: {x: -0.6276066, y: 0.21624991, z: -0.34331226}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5659587491458673758}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: -4.191814, y: -62.169704, z: -31.894205}
+--- !u!1 &7046075727874442815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3935750762405398000}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3935750762405398000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7046075727874442815}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000020861188, y: -0.000000041000167, z: 0.000105351195,
+    w: 1}
+  m_LocalPosition: {x: -0.53503174, y: -0.000000076293944, z: -0.000000057220458}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9027655924473085287}
+  m_Father: {fileID: 7071796759538989975}
+  m_LocalEulerAnglesHint: {x: -0.03931422, y: -0.7644917, z: -7.3005652}
+--- !u!1 &7287536024964080438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2505118382449975566}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2505118382449975566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7287536024964080438}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000029647126, y: -0.000000013059682, z: -0.09304385, w: 0.99566203}
+  m_LocalPosition: {x: -0.10512363, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 211370220246575761}
+  m_LocalEulerAnglesHint: {x: 0.00000021094225, y: -0.00000021591566, z: -0.6675347}
+--- !u!1 &7363333097954159815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4920256873827853141}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4920256873827853141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7363333097954159815}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5414407, y: 0.42629176, z: 0.1893327, w: 0.6994787}
+  m_LocalPosition: {x: -1.0493393, y: -0.037302855, z: 0.17446636}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2709586308295625161}
+  m_Father: {fileID: 4112796493587078270}
+  m_LocalEulerAnglesHint: {x: -66.76208, y: 82.685165, z: -38.18729}
+--- !u!1 &7439391512040546142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1280016575015142159}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1280016575015142159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7439391512040546142}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.014509294, y: -0.25450766, z: 0.3460605, w: 0.9029161}
+  m_LocalPosition: {x: -0.5018908, y: -0.19167252, z: -0.41400188}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7946164295433174831}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 6.4956574, y: -10.352866, z: 40.244846}
+--- !u!1 &7479768194423213090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2093510862862292437}
+  m_Layer: 0
+  m_Name: Skorpmare_ L Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2093510862862292437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7479768194423213090}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000008498401, y: 0.000000005682806, z: 0.06456217, w: 0.9979137}
+  m_LocalPosition: {x: -0.1477501, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4234813180874671126}
+  m_Father: {fileID: 1049542406092592552}
+  m_LocalEulerAnglesHint: {x: 0.0000012390212, y: 0.0000048631155, z: -12.465708}
+--- !u!1 &7571424244709345964
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1678761239938234071}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1678761239938234071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571424244709345964}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000007701639, y: 0.000000008309893, z: 0.6117095, w: 0.7910825}
+  m_LocalPosition: {x: -0.6406561, y: -0.00000015258789, z: -0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4120828519197070987}
+  m_Father: {fileID: 6710893647809984738}
+  m_LocalEulerAnglesHint: {x: -0.0000026685611, y: 0.000004440196, z: 72.24734}
+--- !u!1 &7604635472392309984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 474570981437334356}
+  - component: {fileID: 3518044237629415470}
+  - component: {fileID: 8519750285937032046}
+  m_Layer: 0
+  m_Name: ColliderBite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &474570981437334356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7604635472392309984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6492921074322390053}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &3518044237629415470
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7604635472392309984}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8519750285937032046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7604635472392309984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ee83258d68e4e247972e2d65f1f6b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
+--- !u!1 &7709858275691253066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4149707470549402005}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerRight_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4149707470549402005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7709858275691253066}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0065717986, y: -0.052888576, z: -0.113270946, w: 0.99213374}
+  m_LocalPosition: {x: -0.08483032, y: 0.00000030517577, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 0.9999998, z: 0.9999997}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1827866030557417269}
+  m_LocalEulerAnglesHint: {x: 0.7776761, y: -1.8947177, z: -7.2459183}
+--- !u!1 &7720274997207804218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1442937038562818483}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1442937038562818483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7720274997207804218}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.078339964, y: -0.24410343, z: 0.018579245, w: 0.96640116}
+  m_LocalPosition: {x: -1.6166799, y: -0.4204109, z: -0.26600406}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6862056754694197751}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 18.130259, y: -23.946083, z: -16.672947}
+--- !u!1 &7786185126963622716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3050955740688876388}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3050955740688876388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7786185126963622716}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000041495363, y: 0.000000015200778, z: 0.06456214, w: 0.9979137}
+  m_LocalPosition: {x: -0.14774978, y: 0, z: -0.0000001335144}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3407296868078860508}
+  m_Father: {fileID: 2879670972512706947}
+  m_LocalEulerAnglesHint: {x: -0.00000048451494, y: -0.0000019272536, z: -11.03332}
+--- !u!1 &7860786660243612625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7801372724096761451}
+  m_Layer: 0
+  m_Name: Skorpmare_UpperJaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7801372724096761451
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7860786660243612625}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000031551686, y: -0.000000004673826, z: -0.38498133, w: 0.92292434}
+  m_LocalPosition: {x: -0.29784438, y: -0.014538116, z: -0.000000014672714}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6492921074322390053}
+  m_LocalEulerAnglesHint: {x: -0.054401707, y: 0.45808175, z: -5.653848}
+--- !u!1 &8044899323526047903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7490255830725028142}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7490255830725028142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8044899323526047903}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9664017, y: 0.018580027, z: -0.24410224, w: 0.07833718}
+  m_LocalPosition: {x: -1.6166804, y: -0.42041212, z: 0.26598263}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4634317948025865763}
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 18.13532, y: -156.08632, z: -163.26279}
+--- !u!1 &8053990294554412869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6946674238305174560}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerMiddle_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6946674238305174560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8053990294554412869}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.1457449e-14, y: -3.4757679e-13, z: 0.081969425, w: 0.99663484}
+  m_LocalPosition: {x: -0.12943862, y: 0, z: 8.731149e-13}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8465320722884832627}
+  m_LocalEulerAnglesHint: {x: 0.006009605, y: 0.010801604, z: 4.012872}
+--- !u!1 &8126803474823131854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7071796759538989975}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7071796759538989975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8126803474823131854}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000253501, y: -0.000000045119684, z: -0.016184827, w: 0.99986905}
+  m_LocalPosition: {x: -0.51175886, y: 0.00000015258789, z: -0.000000095367426}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3935750762405398000}
+  m_Father: {fileID: 3658764876410692632}
+  m_LocalEulerAnglesHint: {x: -0.0018479463, y: -0.22377573, z: -3.7183177}
+--- !u!1 &8236778357122492680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2385352835880877127}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2385352835880877127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8236778357122492680}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000015493525, y: -0.000000015281424, z: 0.14343953,
+    w: 0.98965913}
+  m_LocalPosition: {x: -0.11109938, y: -0.000000047683713, z: -0.00000015258789}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6300086344514441762}
+  m_LocalEulerAnglesHint: {x: 0.00000013673461, y: -0.0000052319306, z: -0.8402422}
+--- !u!1 &8336619022479279110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6922254997482093224}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6922254997482093224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8336619022479279110}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000012554881, y: 0.0000000044926765, z: -0.08864651, w: 0.9960632}
+  m_LocalPosition: {x: -0.13005859, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2644810126307795462}
+  m_LocalEulerAnglesHint: {x: -0.00000078597327, y: -0.0000003500928, z: -5.735454}
+--- !u!1 &8430951007521806186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4634317948025865763}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4634317948025865763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8430951007521806186}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000022823804, y: -0.00000007951403, z: 0.093853995, w: 0.995586}
+  m_LocalPosition: {x: -0.13254745, y: 0.00000030517577, z: -0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5072288402792089628}
+  m_Father: {fileID: 7490255830725028142}
+  m_LocalEulerAnglesHint: {x: -0.15261577, y: 0.26833564, z: 30.422794}
+--- !u!1 &8529526139514153496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4112796493587078270}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4112796493587078270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8529526139514153496}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.008228653, y: 0.048274573, z: -0.83810055, w: 0.5433134}
+  m_LocalPosition: {x: -0.6202809, y: 0.000000038146972, z: -0.000000038146972}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7400663116510004832}
+  - {fileID: 4482829050348356696}
+  - {fileID: 4920256873827853141}
+  m_Father: {fileID: 5659587491458673758}
+  m_LocalEulerAnglesHint: {x: 4.1860647, y: 2.7701578, z: -127.93718}
+--- !u!1 &8648405760562790833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4120828519197070987}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4120828519197070987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8648405760562790833}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.031571142, y: 0.01300818, z: -0.25359437, w: 0.9667078}
+  m_LocalPosition: {x: -0.6155862, y: -0.000000038146972, z: 0.000000114440915}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7752774073905110790}
+  - {fileID: 2879670972512706947}
+  - {fileID: 1661124224416503627}
+  m_Father: {fileID: 1678761239938234071}
+  m_LocalEulerAnglesHint: {x: 0.01167338, y: -1.6200931, z: -23.130548}
+--- !u!1 &8690262211127935408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2709586308295625161}
+  m_Layer: 0
+  m_Name: Skorpmare_ R Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2709586308295625161
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8690262211127935408}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000003864726, y: 0.0000000015527822, z: -0.08151433, w: 0.99667215}
+  m_LocalPosition: {x: -0.14444236, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1101427041284405615}
+  m_Father: {fileID: 4920256873827853141}
+  m_LocalEulerAnglesHint: {x: -0.0000008974778, y: 0.00000080770815, z: 3.013557}
+--- !u!1 &8696194310935009892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 402909123499705304}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &402909123499705304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696194310935009892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000017004678, y: 0.0000013956866, z: 0.0014269962, w: 0.999999}
+  m_LocalPosition: {x: -0.5099939, y: 0.00000045776366, z: -0.0000009918213}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2263567453512083117}
+  m_Father: {fileID: 6224633863159325198}
+  m_LocalEulerAnglesHint: {x: 0.46333337, y: 2.917771, z: -17.032707}
+--- !u!1 &8791163364573454077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5102154934113898316}
+  m_Layer: 0
+  m_Name: Skorpmare_FeelerLeft_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5102154934113898316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8791163364573454077}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.012077905, y: 0.10849158, z: 0.109982625, w: 0.9879208}
+  m_LocalPosition: {x: -0.10892379, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1976103679558929437}
+  m_Father: {fileID: 5072288402792089628}
+  m_LocalEulerAnglesHint: {x: -5.8387976, y: 3.804311, z: 7.6378236}
+--- !u!1 &8842171033234481639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4741851396493092649}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4741851396493092649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8842171033234481639}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000017050539, y: -0.00000023997785, z: -0.024252728, w: 0.9997059}
+  m_LocalPosition: {x: -0.40619323, y: -0.0000007629394, z: -0.00000032424927}
+  m_LocalScale: {x: 0.9999998, y: 1.0000001, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6224633863159325198}
+  m_Father: {fileID: 4463479816978905104}
+  m_LocalEulerAnglesHint: {x: 0.044073924, y: -1.0241085, z: 8.175062}
+--- !u!1 &8884676509177588041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1459340865755909545}
+  m_Layer: 0
+  m_Name: Skorpmare_TentacleRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1459340865755909545
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8884676509177588041}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000024589696, y: 0.00000026446978, z: -0.00010535123, w: 1}
+  m_LocalPosition: {x: -0.53503144, y: 0.000000076293944, z: 0.0000002670288}
+  m_LocalScale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2257840585161722506}
+  m_Father: {fileID: 7946164295433174831}
+  m_LocalEulerAnglesHint: {x: 0.043226648, y: -0.7754738, z: 7.4607253}
+--- !u!1 &8964578075475037752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6501334371261577789}
+  m_Layer: 0
+  m_Name: SpitSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6501334371261577789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8964578075475037752}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.28, z: 2.58}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8227461342959750571}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8965959484148674710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4381949128800339768}
+  m_Layer: 0
+  m_Name: Skorpmare_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4381949128800339768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8965959484148674710}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000008097288, y: -0.00000040585664, z: 0.9363586, w: 0.35104507}
+  m_LocalPosition: {x: 0.2662764, y: -0.75235164, z: -0.00000085411193}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3192336701112677414}
+  m_Father: {fileID: 3339498207833163827}
+  m_LocalEulerAnglesHint: {x: -0.0016190953, y: 0.001438244, z: 138.63799}
+--- !u!1 &8979818777885717421
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2092510990177370013}
+  m_Layer: 0
+  m_Name: Skorpmare_UpperClawLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2092510990177370013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8979818777885717421}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9852823, y: -0.10244316, z: -0.11732836, w: 0.07041523}
+  m_LocalPosition: {x: -1.1597148, y: 0.0628891, z: 0.4544561}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7549289504937028705}
+  m_LocalEulerAnglesHint: {x: 7.018314, y: -165.89116, z: -134.02768}
