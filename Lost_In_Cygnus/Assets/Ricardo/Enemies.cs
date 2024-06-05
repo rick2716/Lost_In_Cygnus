@@ -14,9 +14,9 @@ public class Enemies : MonoBehaviour
     private float timer;
 
     [Header("Vida")]
-    public int maxVida;
-    public int vida;
-    public int damagePerHit;
+    public int maxHealth = 30; // Vida máxima del enemigo
+    [SerializeField] private int currentHealth; // Vida actual del enemigo
+    private DropEnemigo dropEnemigo; // Referencia al script DropEnemigo
 
     private Transform player; 
     private NavMeshAgent agent; 
@@ -36,7 +36,9 @@ public class Enemies : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         timer = wanderTimer;
         animator = GetComponent<Animator>();
-        vida = maxVida;
+
+        currentHealth = maxHealth;
+        dropEnemigo = GetComponent<DropEnemigo>(); // Obtener referencia al script DropEnemigo
     }
 
     void Update()
@@ -97,14 +99,21 @@ public class Enemies : MonoBehaviour
         return navHit.position;
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(int amount)
     {
-        vida -= damage;
-        if(damage <= 0)
+        currentHealth -= amount;
+        if (currentHealth <= 0)
         {
-            agent.SetDestination(transform.position);
             animator.SetTrigger("Die");
+            agent.SetDestination(transform.position);
+            agent.speed = 0;
         }
+    }
+
+    public void DestruirEnemigo()
+    {
+        dropEnemigo.DestruirPiedra(); 
+        Destroy(gameObject);
     }
 
     // METODOS PARA PRENDER COLLIDERS MUSCOMORPH (BICHO PEQUEÑO)

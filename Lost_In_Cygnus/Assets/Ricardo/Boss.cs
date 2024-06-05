@@ -15,10 +15,6 @@ public class Boss : MonoBehaviour
     [SerializeField] private int randomAttack;
     private float initialSpeed;
 
-    [Header("Vida")]
-    public int maxVida;
-    public int vida;
-
     [Header("Ataques")]
     public int numAttacks;
     public GameObject colliderBite;
@@ -36,7 +32,6 @@ public class Boss : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
-        vida = maxVida;
         timer = 0;
         initialSpeed = agent.speed;
     }
